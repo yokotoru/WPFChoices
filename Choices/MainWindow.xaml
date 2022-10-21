@@ -69,7 +69,7 @@
                 <MenuItem Header="Редактировать..." FontSize="15" FontFamily="Mustica Pro SemBd" Click="editEmissionClick"></MenuItem>
             </MenuItem>
             <MenuItem Style="{StaticResource ParentMenuItem}" Header="Расчет" FontSize="20">
-                <MenuItem Header="Минимльные выбросы" FontSize="15" FontFamily="Mustica Pro SemBd" Click="minEmissions"></MenuItem>
+                <MenuItem Header="Минимальные выбросы" FontSize="15" FontFamily="Mustica Pro SemBd" Click="minEmissions"></MenuItem>
                 <MenuItem Header="Максимальные выбросы" FontSize="15" FontFamily="Mustica Pro SemBd" Click="maxEmissions"></MenuItem>
                 <MenuItem Header="Средние выбросы" FontSize="15" FontFamily="Mustica Pro SemBd" Click="avgEmissions"></MenuItem>
             </MenuItem>
